@@ -73,7 +73,7 @@ bot.onText(/Get Account Number💳/, (msg) => {
         '1000182119761': 'ንግድ ባንክ 👆\n ራሄል ታፈሰ',
         '1261541': 'አቢሲንያ ባንክ 👆\n ራሄል ታፈሰ',
         '01320082658800': 'አዋሽ ባንክ 👆\n ራሄል ታፈሰ',
-        '+12404217727': 'Zelle Account 👆\n for American Users'
+        '+12404217727': 'Zelle Account 👆\n for American Users\n Price💰: 20$'
         // Add more banks and account numbers as needed [dont forget to add commas if youo add banks]
     };
     let accountInfo = '\nየሂሳብ ቁጥሮች:\n\n';
